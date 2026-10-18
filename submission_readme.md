@@ -11,9 +11,6 @@ Multi-environment ticket management application deployed locally with Docker and
 5. [Application Deployment](#5-application-deployment)
 6. [Testing and Verification](#6-testing-and-verification)
 7. [Evidence Index](#7-evidence-index)
-8. [Assumptions and Limitations](#8-assumptions-and-limitations)
-9. [Design Notes for VIVA](#9-design-notes-for-viva)
-
 ---
 
 ## 1. Architecture
@@ -333,7 +330,7 @@ docker compose logs backend-dev backend-prod
 
 **screenshoot#2:** backend startup logs
 
-![Service logs](screenshots/screenshoot#2.png)
+![Service logs](./screenshots/screenshoot#2.png)
 
 ---
 
